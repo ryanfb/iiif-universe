@@ -28,6 +28,11 @@
       "@id": "http://showcase.iiif.io/shims/chroniclingamerica/prezi/top.json",
       "@type": "sc:Collection",
       "label": "Chronicling America Newspapers by State"
+    },
+    {
+      "@id": "http://ryanfb.github.io/iiif-universe/catalogs/scta.info.json",
+      "@type": "sc:Collection",
+      "label": "Sentences Commentary Text Archive"
     }
   ]
 }
