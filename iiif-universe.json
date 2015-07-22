@@ -1,0 +1,33 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://ryanfb.github.io/iiif-universe/iiif-universe.json",
+  "@type": "sc:Collection",
+  "label": "IIIF Universe",
+  "collections": [
+    {
+      "@id": "http://manifests.ydc2.yale.edu/manifest",
+      "@type": "sc:Collection",
+      "label": "Yale"
+    },
+    {
+      "@id": "https://graph.global/static/data/universes/iiif/stanford.json",
+      "@type": "sc:Collection",
+      "label": "Stanford"
+    },
+    {
+      "@id": "https://graph.global/static/data/universes/iiif/biblissima.json",
+      "@type": "sc:Collection",
+      "label": "Biblissima"
+    },
+    {
+      "@id": "https://graph.global/static/data/universes/iiif/e-codices.json",
+      "@type": "sc:Collection",
+      "label": "e-codices"
+    },
+    {
+      "@id": "http://showcase.iiif.io/shims/chroniclingamerica/prezi/top.json",
+      "@type": "sc:Collection",
+      "label": "Chronicling America Newspapers by State"
+    }
+  ]
+}
