@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://ryanfb.github.io/iiif-universe/catalogs/scta-manifests.json",
+  "@id": "http://ryanfb.github.io/iiif-universe/catalogs/scta.info.json",
   "@type": "sc:Collection",
   "label": "Sentences Commentary Text Archive",
   "manifests": [
