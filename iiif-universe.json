@@ -30,7 +30,7 @@
       "label": "Chronicling America Newspapers by State"
     },
     {
-      "@id": "http://ryanfb.github.io/iiif-universe/catalogs/scta.info.json",
+      "@id": "http://scta.info/iiif/collection/scta",
       "@type": "sc:Collection",
       "label": "Sentences Commentary Text Archive"
     }
