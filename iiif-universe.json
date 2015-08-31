@@ -33,6 +33,11 @@
       "@id": "http://scta.info/iiif/collection/scta",
       "@type": "sc:Collection",
       "label": "Sentences Commentary Text Archive"
+    },
+    {
+      "@id": "http://digital.library.villanova.edu/Collection/vudl:3/IIIF",
+      "@type": "sc:Collection",
+      "label": "Digital Library @ Villanova University"
     }
   ]
 }
