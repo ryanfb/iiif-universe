@@ -38,6 +38,11 @@
       "@id": "http://digital.library.villanova.edu/Collection/vudl:3/IIIF",
       "@type": "sc:Collection",
       "label": "Digital Library @ Villanova University"
+    },
+    {
+      "@id": "http://wellcomelibrary.org/service/collections/",
+      "@type": "sc:Collection",
+      "label": "Wellcome Library"
     }
   ]
 }
