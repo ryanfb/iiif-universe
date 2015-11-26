@@ -43,6 +43,11 @@
       "@id": "http://wellcomelibrary.org/service/collections/",
       "@type": "sc:Collection",
       "label": "Wellcome Library"
+    },
+    {
+      "@id": "https://iiif.archivelab.org/iiif/collection.json",
+      "@type": "sc:Collection",
+      "label": "The Internet Archive Universal Collection"
     }
   ]
 }
