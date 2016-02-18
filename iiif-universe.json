@@ -48,6 +48,11 @@
       "@id": "https://iiif.archivelab.org/iiif/collection.json",
       "@type": "sc:Collection",
       "label": "The Internet Archive Universal Collection"
+    },
+        {
+      "@id": "http://iiif.bodleian.ox.ac.uk/iiif/collection/All",
+      "@type": "sc:Collection",
+      "label": "Bodleian Library, Oxford"
     }
   ]
 }
