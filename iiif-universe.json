@@ -59,6 +59,12 @@
       "@type": "sc:Collection",
       "label": "Biblissima IIIF Collections",
       "description": "Collections of IIIF Manifests from Biblissima's image repositories"
+    },
+    {
+      "@id": "https://labs2.artstor.org/iiif/ssc/manifest.json",
+      "@type": "sc:Collection",
+      "label": "Shared Shelf Commons",
+      "description": "IIIF Manifests showcasing collections from Shared Shelf Commons"
     }
   ]
 }
