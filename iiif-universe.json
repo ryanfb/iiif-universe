@@ -65,6 +65,11 @@
       "@type": "sc:Collection",
       "label": "Shared Shelf Commons",
       "description": "IIIF Manifests showcasing collections from Shared Shelf Commons"
+    },
+    {
+      "@id": "https://iiif.durham.ac.uk/manifests/trifle/collection/index",
+      "@type": "sc:Collection",
+      "label": "Durham University IIIF Collections"
     }
   ]
 }
