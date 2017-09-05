@@ -79,7 +79,7 @@
     {
       "@id": "https://textgridlab.org/1.0/iiif/manifests/collection.json",
       "@type": "sc:Collection",
-      "label": "TextGrid",
+      "label": "TextGrid"
     }
   ]
 }
