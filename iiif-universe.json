@@ -20,7 +20,7 @@
       "label": "Stanford"
     },
     {
-      "@id": "https://graph.global/static/data/universes/iiif/e-codices.json",
+      "@id": "http://www.e-codices.unifr.ch/metadata/iiif/collection.json",
       "@type": "sc:Collection",
       "label": "e-codices"
     },
@@ -30,7 +30,7 @@
       "label": "Chronicling America Newspapers by State"
     },
     {
-      "@id": "http://scta.info/iiif/collection/scta",
+      "@id": "http://scta.info/iiif/scta/collection",
       "@type": "sc:Collection",
       "label": "Sentences Commentary Text Archive"
     },
