@@ -70,6 +70,16 @@
       "@id": "https://iiif.durham.ac.uk/manifests/trifle/collection/index",
       "@type": "sc:Collection",
       "label": "Durham University IIIF Collections"
+    },
+    {
+      "@id": "https://view.nls.uk/collections/top.json",
+      "@type": "sc:Collection",
+      "label": "National Library of Scotland"
+    },
+    {
+      "@id": "https://textgridlab.org/1.0/iiif/manifests/collection.json",
+      "@type": "sc:Collection",
+      "label": "TextGrid",
     }
   ]
 }
