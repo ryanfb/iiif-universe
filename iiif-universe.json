@@ -85,6 +85,11 @@
       "@id": "https://iiif.harvardartmuseums.org/collections/top",
       "@type": "sc:Collection",
       "label": "Harvard Art Museums"
+    },
+    {
+      "@id": "http://jubilees.stmarytx.edu/iiifp/collection/JubPalProj.json",
+      "@type": "sc:Collection",
+      "label": "Jubilees Palimpsest Project"
     }
   ]
 }
