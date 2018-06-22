@@ -90,6 +90,11 @@
       "@id": "http://jubilees.stmarytx.edu/iiifp/collection/JubPalProj.json",
       "@type": "sc:Collection",
       "label": "Jubilees Palimpsest Project"
+    },
+    {
+      "@id": "https://cudl.lib.cam.ac.uk/iiif/collection/all",
+      "@type": "sc:Collection",
+      "label": "Cambridge University Library IIIF Collections"
     }
   ]
 }
