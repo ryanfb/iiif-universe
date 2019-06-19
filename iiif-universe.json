@@ -96,6 +96,11 @@
       "@id": "https://cudl.lib.cam.ac.uk/iiif/collection/all",
       "@type": "sc:Collection",
       "label": "Cambridge University Library IIIF Collections"
+    },
+    {
+      "@id": "https://figgy.princeton.edu/iiif/collections",
+      "@type": "sc:Collection",
+      "label": "Princeton University Library"
     }
   ]
 }
