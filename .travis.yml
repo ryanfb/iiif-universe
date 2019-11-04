@@ -7,5 +7,6 @@ branches:
     - /(.*)/   # test all branches
 before_script:
   - npm install -g jsonlint
+  - gem install bundler
   - bundle install
 script: jsonlint -q iiif-universe.json && bundle exec ./validate.rb
