@@ -5,16 +5,6 @@
   "label": "IIIF Universe",
   "collections": [
     {
-      "@id": "http://manifests.ydc2.yale.edu/manifest",
-      "@type": "sc:Collection",
-      "label": "Yale"
-    },
-    {
-      "@id": "http://manifests.britishart.yale.edu/collection/top",
-      "@type": "sc:Collection",
-      "label": "Yale Center for British Art"
-    },
-    {
       "@id": "https://graph.global/static/data/universes/iiif/stanford.json",
       "@type": "sc:Collection",
       "label": "Stanford"
@@ -25,29 +15,19 @@
       "label": "e-codices"
     },
     {
-      "@id": "http://showcase.iiif.io/shims/chroniclingamerica/prezi/top.json",
-      "@type": "sc:Collection",
-      "label": "Chronicling America Newspapers by State"
-    },
-    {
-      "@id": "http://scta.info/iiif/scta/collection",
+      "@id": "https://scta.info/iiif/scta/collection",
       "@type": "sc:Collection",
       "label": "Sentences Commentary Text Archive"
     },
     {
-      "@id": "http://digital.library.villanova.edu/Collection/vudl:3/IIIF",
+      "@id": "https://digital.library.villanova.edu/Collection/vudl:3/IIIF",
       "@type": "sc:Collection",
       "label": "Digital Library @ Villanova University"
     },
     {
-      "@id": "http://wellcomelibrary.org/service/collections/",
+      "@id": "https://wellcomelibrary.org/service/collections/",
       "@type": "sc:Collection",
       "label": "Wellcome Library"
-    },
-    {
-      "@id": "https://iiif.archivelab.org/iiif/collection.json",
-      "@type": "sc:Collection",
-      "label": "The Internet Archive Universal Collection"
     },
     {
       "@id": "https://iiif.bodleian.ox.ac.uk/iiif/collection/top",
@@ -56,19 +36,13 @@
       "description": "Top-level collection of IIIF manifests from the Bodleian Library and Oxford Colleges"
     },
     {
-      "@id": "http://biblissima.fr/iiif/collection/top",
+      "@id": "https://biblissima.fr/iiif/collection/top",
       "@type": "sc:Collection",
       "label": "Biblissima IIIF Collections",
       "description": "Collections of IIIF Manifests from Biblissima's image repositories"
     },
     {
-      "@id": "https://labs2.artstor.org/iiif/ssc/manifest.json",
-      "@type": "sc:Collection",
-      "label": "Shared Shelf Commons",
-      "description": "IIIF Manifests showcasing collections from Shared Shelf Commons"
-    },
-    {
-      "@id": "https://iiif.durham.ac.uk/manifests/trifle/collection/index",
+      "@id": "http://iiif.durham.ac.uk/manifests/trifle/collection/index",
       "@type": "sc:Collection",
       "label": "Durham University IIIF Collections"
     },
