@@ -1,4 +1,5 @@
 language: node_js
+cache: bundler
 sudo: false
 branches:
   only:
@@ -6,4 +7,5 @@ branches:
     - /(.*)/   # test all branches
 before_script:
   - npm install -g jsonlint
-script: jsonlint -q iiif-universe.json
+  - bundle install
+script: jsonlint -q iiif-universe.json && bundle exec ./validate.rb
