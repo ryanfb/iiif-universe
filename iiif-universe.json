@@ -5,17 +5,22 @@
   "label": "IIIF Universe",
   "collections": [
     {
+      "@id": "http://manifests.ydc2.yale.edu/manifest",
+      "@type": "sc:Collection",
+      "label": "Yale"
+    },    
+    {
       "@id": "https://graph.global/static/data/universes/iiif/stanford.json",
       "@type": "sc:Collection",
       "label": "Stanford"
     },
     {
-      "@id": "http://www.e-codices.unifr.ch/metadata/iiif/collection.json",
+      "@id": "https://www.e-codices.unifr.ch/metadata/iiif/collection.json",
       "@type": "sc:Collection",
       "label": "e-codices"
     },
     {
-      "@id": "https://scta.info/iiif/scta/collection",
+      "@id": "http://scta.info/iiif/scta/collection",
       "@type": "sc:Collection",
       "label": "Sentences Commentary Text Archive"
     },
@@ -42,7 +47,7 @@
       "description": "Collections of IIIF Manifests from Biblissima's image repositories"
     },
     {
-      "@id": "http://iiif.durham.ac.uk/manifests/trifle/collection/index",
+      "@id": "https://iiif.durham.ac.uk/manifests/trifle/collection/index",
       "@type": "sc:Collection",
       "label": "Durham University IIIF Collections"
     },
