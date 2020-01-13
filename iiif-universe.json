@@ -67,6 +67,11 @@
       "label": "Harvard Art Museums"
     },
     {
+      "@id": "https://iiif.hab.de/collection/project/mssox.json",
+      "@type": "sc:Collection",
+      "label": "Herzog August Bibliothek - The Polonsky Foundation Oxford-Wolfenbüttel German Manuscripts Digitization Project (2018-2021)"
+    },
+    {
       "@id": "http://jubilees.stmarytx.edu/iiifp/collection/JubPalProj.json",
       "@type": "sc:Collection",
       "label": "Jubilees Palimpsest Project"
