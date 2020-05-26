@@ -85,6 +85,12 @@
       "@id": "https://figgy.princeton.edu/iiif/collections",
       "@type": "sc:Collection",
       "label": "Princeton University Library"
+    },
+        {
+      "@id": "https://iiif.ub.uni-leipzig.de/static/collections/toplevel.json",
+      "@type": "sc:Collection",
+      "label": "Leipzig University Library"
     }
+    
   ]
 }
