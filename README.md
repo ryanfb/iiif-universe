@@ -1,7 +1,7 @@
 iiif-universe
 =============
 
-[![Build Status](https://travis-ci.com/ryanfb/iiif-universe.svg?branch=gh-pages)](https://travis-ci.org/ryanfb/iiif-universe)
+[![Build Status](https://travis-ci.com/ryanfb/iiif-universe.svg?branch=gh-pages)](https://travis-ci.com/ryanfb/iiif-universe)
 
 A Universe is a directory of catalogs published by service providers which lists their available assets. This Universe is intended to present a [collection](http://iiif.io/api/presentation/2.0/#collections) which points to other collections as [machine-actionable JSON](http://ryanfb.github.io/iiif-universe/iiif-universe.json).
 
