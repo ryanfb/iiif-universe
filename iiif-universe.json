@@ -86,11 +86,15 @@
       "@type": "sc:Collection",
       "label": "Princeton University Library"
     },
-        {
+    {
       "@id": "https://iiif.ub.uni-leipzig.de/static/collections/toplevel.json",
       "@type": "sc:Collection",
       "label": "Leipzig University Library"
+    },
+    {
+      "@id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/collection/top",
+      "@type": "sc:Collection",
+      "label": "Bavarian State Library"
     }
-    
   ]
 }
